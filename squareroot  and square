@@ -1,0 +1,9 @@
+<?php
+echo"Squareroot of Number";
+echo(sqrt(64) . "<br>");
+echo(sqrt(0) . "<br>");
+echo(sqrt(1) . "<br>");
+echo(sqrt(9)."<br>");
+echo"Square of Number 2<br>";
+echo pow(2,2);
+?>
